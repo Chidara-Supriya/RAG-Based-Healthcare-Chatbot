@@ -79,10 +79,10 @@ http://localhost:
 ```
 ### Deployment
 - This project can de deployed on several platform such as:
-1.Streamlit CLoud
-2.Hugging Face Spaces
-3.Render
-4.AWS/GCP/Azure
+- 1.Streamlit CLoud
+- 2.Hugging Face Spaces
+- 3.Render
+- 4.AWS/GCP/Azure
 
 For portfolio projects ,Streamlit Cloud is the easiest option
 
